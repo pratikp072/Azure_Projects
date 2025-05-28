@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "publicIPAddresses_pip1_name": {
+            "value": null
+        },
+        "publicIPAddresses_pip2_name": {
+            "value": null
+        },
+        "virtualNetworks_Myvnet_name": {
+            "value": null
+        },
+        "virtualMachines_webappvm1_name": {
+            "value": null
+        },
+        "virtualMachines_webappvm2_name": {
+            "value": null
+        },
+        "networkInterfaces_webNic1_name": {
+            "value": null
+        },
+        "networkInterfaces_webNic2_name": {
+            "value": null
+        },
+        "availabilitySets_WebAvailSet_name": {
+            "value": null
+        },
+        "networkSecurityGroups_webapp_nsg_name": {
+            "value": null
+        },
+        "storageAccounts_azuremywebaweba052720170_name": {
+            "value": null
+        },
+        "storageAccounts_azuremywebaweba052720210_name": {
+            "value": null
+        }
+    }
+}
